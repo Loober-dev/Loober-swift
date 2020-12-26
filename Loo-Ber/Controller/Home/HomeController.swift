@@ -2,7 +2,7 @@
 //  HomeController.swift
 //  Loo-Ber
 //
-//  Created by Emmanuel Mawuli Klutse on 2/4/20.
+//  Created by Emmanuel Klutse on 2/4/20.
 //  Copyright © 2020 Emmanuel Klutse. All rights reserved.
 //
 
