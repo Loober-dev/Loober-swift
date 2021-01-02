@@ -16,7 +16,7 @@ class LoginController: UIViewController {
     
     private let titleLabel: UILabel = {
         let label = UILabel()
-        label.text = "LooBer"
+        label.text = "Loober"
         label.font = UIFont(name: "Avenir-Light", size: 45)
         label.textColor = UIColor(white: 1, alpha: 1)
         return label
