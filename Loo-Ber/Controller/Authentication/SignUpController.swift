@@ -87,6 +87,7 @@ class SignUpController: UIViewController {
         sc.backgroundColor = UIColor(white: 0.9, alpha: 0.3)
         sc.tintColor = UIColor(white: 1, alpha: 1)
         sc.selectedSegmentIndex = 0
+        sc.setEnabled(false, forSegmentAt: 1)
         
         return sc
     }()
